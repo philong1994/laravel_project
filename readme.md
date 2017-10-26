@@ -1,7 +1,5 @@
-<p align="center"><img src="http://quoctuan.info/images/logo/logo_quoctuan.png"></p>
 
 ## About CMS QuocTuan.Info
-
 CMS QuocTuan.Info is based on the Laravel Framework 5.4.CMS QuocTuan.Info includes news and shopping cart functions for  medium or small models.
 
 - [Laravel Framework 5.4](https://laravel.com/).
